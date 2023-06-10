@@ -1,2 +1,2 @@
 # ropGPT
-ROP gadgets using chatGPT..
+ROP gadgets using chatGPT.. Update coming soon..
